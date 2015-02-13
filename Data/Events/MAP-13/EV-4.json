@@ -1,0 +1,1 @@
+[{"id":4,"x":"8","y":"9","name":"EV-4"},[{"trigger":"contact","frequence":2,"type":"fixed","speed":4,"switch_1":0,"switch_2":0,"switch_3":0,"commands":["FADE_OUT_MUSIC: {'frame': '5'}","TRANSFER_PLAYER: {'position-type': 'constant','appointement': {'id':'1','x':'18','y':'17'},'direction': 'down'}"]}]]

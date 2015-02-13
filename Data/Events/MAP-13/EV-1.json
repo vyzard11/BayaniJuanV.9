@@ -1,0 +1,1 @@
+[{"id":1,"x":"7","y":"10","name":"EV-1"},[{"trigger":"contact","frequence":2,"type":"fixed","speed":4,"switch_1":0,"switch_2":0,"switch_3":0,"commands":["PLAY_BGS: {'id': '64'}"]}]]

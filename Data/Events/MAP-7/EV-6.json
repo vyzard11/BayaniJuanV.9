@@ -1,0 +1,1 @@
+[{"id":6,"x":"20","y":"0","name":"EV-6"},[{"trigger":"auto_one_time","frequence":2,"type":"fixed","speed":4,"switch_1":0,"switch_2":0,"switch_3":0,"commands":["SHOW_TEXT: {'text': 'Sagutin ang mga katanungan sa loob ng silid na ito upang mas lalo pang makilala ang ilang sa mga pangunahing bayani sa likod <br>ng kilusang Propaganda.'}"]}]]
