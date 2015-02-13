@@ -124,6 +124,6 @@ RPGJS_Canvas.Scene.New({
 		return false;
 	},
 	option_game: function() {
-		window.location.href = "rpgjs/instructions.html"
+		window.location.href = "instructions.html"
 	}
 });
