@@ -1,0 +1,15 @@
+{
+  "main": "index.html",
+  "name": "game-1732-2031",
+  "version": "1.0.0",
+  "window": {
+    "title": "BayaNi Juan",
+    "toolbar": false,
+    "frame": true,
+    "width": 640,
+    "height": 480,
+    "position": "center",
+    "resizable": false,
+    "fullscreen": false
+  }
+}
