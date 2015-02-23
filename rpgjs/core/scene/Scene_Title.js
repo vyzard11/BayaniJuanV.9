@@ -26,8 +26,7 @@ RPGJS_Canvas.Scene.New({
 		
 		var choice = {
 			new_game: "Maglaro", 
-			//load_game: "Load"
-			option_game: "Gabay"
+			load_game: "Load"
 		},
 			btns_set = this.createElement(),
 			btn, text,
@@ -47,7 +46,7 @@ RPGJS_Canvas.Scene.New({
 				color: "white",
 				textBaseline: "top",
 				family: "Megadeth",
-				shadow: "1 1 10 #0000000"
+				shadow: "1 1 10 #000000"
 			}).draw(btn, 0, 0);
 			
 			btn.y = i * 60;
@@ -71,7 +70,7 @@ RPGJS_Canvas.Scene.New({
 			
 			i++;
 		}
-		btns_set.x = 315;
+		btns_set.x = 314;
 		btns_set.y = 340;
 		
 		stage.append(background, btns_set);
@@ -122,8 +121,5 @@ RPGJS_Canvas.Scene.New({
 			}
 		}
 		return false;
-	},
-	option_game: function() {
-		window.location.href = "instructions.html"
 	}
 });
